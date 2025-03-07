@@ -1,0 +1,25 @@
+name l3backend-dev
+category Package
+revision 71211
+shortdesc LaTeX3 backend drivers (dev)
+longdesc This is a pre-release version of the l3backend package. It
+longdesc accompanies the pre-testing kernel code (latex-base-dev), and
+longdesc is intended for testing by knowledgeable users.
+containersize 16128
+containerchecksum 00b65edbcc4ada59b04d73655749b2a3e8a6f2def3af3e207ca34d2557cc0fc1028936284fc3d593fb694a43dd8f8d2faeea21c201a8277c67065602c2797ce2
+doccontainersize 862356
+doccontainerchecksum b59dc75cd87e4c7167753b63560cbf1f9e3f8aa1ff3f1ada76c4d1fae8a28cd5836b11a32e0b7c12ccc1fcb48b9794a55677f48adb87587d8afa92e50672cca1
+srccontainersize 33812
+srccontainerchecksum be332fda2c7b4765819af2f011e5b291f8c411c00fa0f8960eecbbe1556356c049a61e12c5eada5f52dd11a35931573cf203a19855bc01956c90bf33dd637040
+runfiles size=51
+ texmf-dist/tex/latex-dev/l3backend/l3backend-dvipdfmx.def
+ texmf-dist/tex/latex-dev/l3backend/l3backend-dvips.def
+ texmf-dist/tex/latex-dev/l3backend/l3backend-dvips.pro
+ texmf-dist/tex/latex-dev/l3backend/l3backend-dvisvgm.def
+ texmf-dist/tex/latex-dev/l3backend/l3backend-luatex.def
+ texmf-dist/tex/latex-dev/l3backend/l3backend-luatex.lua
+ texmf-dist/tex/latex-dev/l3backend/l3backend-pdftex.def
+ texmf-dist/tex/latex-dev/l3backend/l3backend-xetex.def
+catalogue-ctan /macros/latex-dev/required/l3backend
+catalogue-license lppl1.3c
+catalogue-topics latex3 expl3 macro-supp pre-release

@@ -1,0 +1,9 @@
+name uplatex.windows
+category Package
+revision 65891
+shortdesc windows files of uplatex
+containersize 2384
+containerchecksum bef83f409be8984930994fdfc9eba086d15df00ab204c0ee6fc85f77988daf2f2c20325288557858ea9634e4b6bc3c0af958d37892380872ef987e38c28d3432
+binfiles arch=windows size=4
+ bin/windows/uplatex-dev.exe
+ bin/windows/uplatex.exe

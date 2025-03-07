@@ -1,0 +1,41 @@
+name l3kernel-dev
+category Package
+revision 73209
+shortdesc Development pre-release of l3kernel
+longdesc This is a pre-release version of the l3kernel package. It
+longdesc accompanies the pre-testing kernel code (latex-base-dev), and
+longdesc is intended for testing by knowledgeable users.
+depend l3backend-dev
+containersize 180744
+containerchecksum 4ea0c9bf2ad86ac1e0ffbaa9b8610de735f8986b749ac57fae383be8f99199835b01bfcb35ac97b8dee4f6fd0bd7c626ab9dc0108b2b95210ec74cfff2784fd4
+doccontainersize 12113568
+doccontainerchecksum c0736bb0b3edc122834138884bc21f57109146f10062487311efba9c9908f612551aeb5934dd17355455f85dc4538f6372edbc39c820943950ae7203d68d49e5
+srccontainersize 625064
+srccontainerchecksum 8a835bba79bc666e99db5e68347c9dd2513aa1820737619cf5f32f39ba3ec5f34fa2e25b998e09203ed8712009263e25a5f917ef45fb832b88ff1507378a7ab8
+runfiles size=369
+ texmf-dist/tex/latex-dev/l3kernel/expl3-code.tex
+ texmf-dist/tex/latex-dev/l3kernel/expl3-generic.tex
+ texmf-dist/tex/latex-dev/l3kernel/expl3.ltx
+ texmf-dist/tex/latex-dev/l3kernel/expl3.lua
+ texmf-dist/tex/latex-dev/l3kernel/expl3.sty
+ texmf-dist/tex/latex-dev/l3kernel/l3debug.def
+ texmf-dist/tex/latex-dev/l3kernel/l3doc.cls
+ texmf-dist/tex/latex-dev/l3kernel/l3docstrip.tex
+ texmf-dist/tex/latex-dev/l3kernel/l3str-enc-iso88591.def
+ texmf-dist/tex/latex-dev/l3kernel/l3str-enc-iso885910.def
+ texmf-dist/tex/latex-dev/l3kernel/l3str-enc-iso885911.def
+ texmf-dist/tex/latex-dev/l3kernel/l3str-enc-iso885913.def
+ texmf-dist/tex/latex-dev/l3kernel/l3str-enc-iso885914.def
+ texmf-dist/tex/latex-dev/l3kernel/l3str-enc-iso885915.def
+ texmf-dist/tex/latex-dev/l3kernel/l3str-enc-iso885916.def
+ texmf-dist/tex/latex-dev/l3kernel/l3str-enc-iso88592.def
+ texmf-dist/tex/latex-dev/l3kernel/l3str-enc-iso88593.def
+ texmf-dist/tex/latex-dev/l3kernel/l3str-enc-iso88594.def
+ texmf-dist/tex/latex-dev/l3kernel/l3str-enc-iso88595.def
+ texmf-dist/tex/latex-dev/l3kernel/l3str-enc-iso88596.def
+ texmf-dist/tex/latex-dev/l3kernel/l3str-enc-iso88597.def
+ texmf-dist/tex/latex-dev/l3kernel/l3str-enc-iso88598.def
+ texmf-dist/tex/latex-dev/l3kernel/l3str-enc-iso88599.def
+catalogue-ctan /macros/latex-dev/required/l3kernel
+catalogue-license lppl1.3c
+catalogue-topics format latex3 pre-release

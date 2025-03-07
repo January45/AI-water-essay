@@ -1,0 +1,9 @@
+name platex.windows
+category Package
+revision 67319
+shortdesc windows files of platex
+containersize 2388
+containerchecksum c73ccc1ae2d123c995c5e72a068d654e5d65f5557536bf2cb8f09236026354440d40ae029c0ecc64611557db6f45fd9b985157e9441c94b09487e203e163708c
+binfiles arch=windows size=4
+ bin/windows/platex-dev.exe
+ bin/windows/platex.exe

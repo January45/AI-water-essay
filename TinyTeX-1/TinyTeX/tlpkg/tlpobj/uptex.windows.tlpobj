@@ -1,0 +1,19 @@
+name uptex.windows
+category Package
+revision 70757
+shortdesc windows files of uptex
+containersize 1398184
+containerchecksum a57777fc99f5b70212334552781be9ba145abc9ce928febeb3ef23ea296a858592c12c280298a8d2144800760c24ea5f5f02119822758e5753e5f632141e361f
+binfiles arch=windows size=945
+ bin/windows/euptex.dll
+ bin/windows/euptex.exe
+ bin/windows/r-upmpost.exe
+ bin/windows/upbibtex.exe
+ bin/windows/updvitomp.exe
+ bin/windows/updvitype.exe
+ bin/windows/upmpost.dll
+ bin/windows/upmpost.exe
+ bin/windows/uppltotf.exe
+ bin/windows/uptex.exe
+ bin/windows/uptftopl.exe
+ bin/windows/wovp2ovf.exe

@@ -1,0 +1,53 @@
+[Sat Jan 11 21:14:48 2025] install: adobemapping
+[Sat Jan 11 21:20:49 2025] install: arphic
+[Sat Jan 11 21:20:49 2025] install: beamer
+[Sat Jan 11 21:20:50 2025] install: cjk
+[Sat Jan 11 21:20:51 2025] install: cjkpunct
+[Sat Jan 11 21:20:54 2025] install: cns
+[Sat Jan 11 21:20:55 2025] install: ctex
+[Sat Jan 11 21:20:56 2025] install: everyhook
+[Sat Jan 11 21:21:08 2025] install: fandol
+[Sat Jan 11 21:21:12 2025] install: fonts-tlwg
+[Sat Jan 11 21:21:12 2025] install: fp
+[Sat Jan 11 21:21:13 2025] install: garuda-c90
+[Sat Jan 11 21:21:13 2025] install: l3backend-dev
+[Sat Jan 11 21:21:14 2025] install: l3kernel-dev
+[Sat Jan 11 21:21:15 2025] install: latex-base-dev
+[Sat Jan 11 21:21:15 2025] install: latex-firstaid-dev
+[Sat Jan 11 21:21:16 2025] install: luatexja
+[Sat Jan 11 21:21:16 2025] install: mptopdf.windows
+[Sat Jan 11 21:21:17 2025] install: mptopdf
+[Sat Jan 11 21:21:17 2025] install: norasi-c90
+[Sat Jan 11 21:21:19 2025] install: pgf
+[Sat Jan 11 21:21:19 2025] install: platex.windows
+[Sat Jan 11 21:21:20 2025] install: platex
+[Sat Jan 11 21:21:20 2025] install: platex-tools
+[Sat Jan 11 21:21:21 2025] install: ptex.windows
+[Sat Jan 11 21:21:22 2025] install: ptex
+[Sat Jan 11 21:21:22 2025] install: ptex-base
+[Sat Jan 11 21:21:23 2025] install: ptex-fonts
+[Sat Jan 11 21:21:23 2025] install: svn-prov
+[Sat Jan 11 21:21:24 2025] install: translator
+[Sat Jan 11 21:21:25 2025] install: ttfutils.windows
+[Sat Jan 11 21:21:26 2025] install: ttfutils
+[Sat Jan 11 21:21:30 2025] install: uhc
+[Sat Jan 11 21:21:30 2025] install: ulem
+[Sat Jan 11 21:21:31 2025] install: uplatex.windows
+[Sat Jan 11 21:21:31 2025] install: uplatex
+[Sat Jan 11 21:21:32 2025] install: uptex.windows
+[Sat Jan 11 21:21:33 2025] install: uptex
+[Sat Jan 11 21:21:33 2025] install: uptex-base
+[Sat Jan 11 21:21:34 2025] install: uptex-fonts
+[Sat Jan 11 21:21:44 2025] install: wadalab
+[Sat Jan 11 21:21:45 2025] install: xcjk2uni
+[Sat Jan 11 21:21:45 2025] install: xecjk
+[Sat Jan 11 21:21:47 2025] install: xpinyin
+[Sat Jan 11 21:21:50 2025] install: zhmetrics
+[Sat Jan 11 21:21:51 2025] install: zhmetrics-uptex
+[Sat Jan 11 21:21:51 2025] install: zhnumber
+[Sat Jan 11 21:21:51 2025] command: mktexlsr
+[Sat Jan 11 21:21:52 2025] command: updmap-sys
+[Sat Jan 11 21:21:54 2025] command: fmtutil-sys --byengine euptex --no-error-if-no-format --no-error-if-no-engine=luametatex,luajithbtex,luajittex,mfluajit --status-file=C:\Users\17506\AppData\Local\Temp\ZeOPW9xoLg\InGw21EZll
+[Sat Jan 11 21:22:22 2025]   OK: euptex.fmt/euptex ptex.fmt/euptex uptex.fmt/euptex platex.fmt/euptex platex-dev.fmt/euptex uplatex.fmt/euptex uplatex-dev.fmt/euptex eptex.fmt/euptex
+[Sat Jan 11 21:22:22 2025] command: fmtutil-sys --byfmt mptopdf --no-error-if-no-engine=luametatex,luajithbtex,luajittex,mfluajit --status-file=C:\Users\17506\AppData\Local\Temp\ZeOPW9xoLg\InGw21EZll
+[Sat Jan 11 21:22:24 2025]   OK: euptex.fmt/euptex ptex.fmt/euptex uptex.fmt/euptex platex.fmt/euptex platex-dev.fmt/euptex uplatex.fmt/euptex uplatex-dev.fmt/euptex eptex.fmt/euptex mptopdf.fmt/pdftex

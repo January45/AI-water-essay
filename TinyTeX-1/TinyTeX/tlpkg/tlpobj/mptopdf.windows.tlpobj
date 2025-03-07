@@ -1,0 +1,8 @@
+name mptopdf.windows
+category Package
+revision 65891
+shortdesc windows files of mptopdf
+containersize 2304
+containerchecksum 35eb0ca823410a804b5a618b22cec4bf680a884c62b4a4c5778f0294d79399f07a56eeaeaaaa562e5d98eae5c54c961b400f9b2c61ba3744b0a19c368cea44e3
+binfiles arch=windows size=2
+ bin/windows/mptopdf.exe

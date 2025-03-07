@@ -1,0 +1,20 @@
+name ptex.windows
+category Package
+revision 70576
+shortdesc windows files of ptex
+containersize 1153368
+containerchecksum 3e848b897ed235d8aa11ccd96de65a5a22fea703ee08e8b5d9c8a31bca51e03cdcb1f131e1e1ef5fd0b19e0d36b5ac3b67a4b4685af462b7aa2f1b7c5433eb9c
+binfiles arch=windows size=822
+ bin/windows/eptex.exe
+ bin/windows/makejvf.exe
+ bin/windows/mendex.exe
+ bin/windows/pbibtex.exe
+ bin/windows/pdvitomp.exe
+ bin/windows/pdvitype.exe
+ bin/windows/pmpost.dll
+ bin/windows/pmpost.exe
+ bin/windows/ppltotf.exe
+ bin/windows/ptekf.exe
+ bin/windows/ptex.exe
+ bin/windows/ptftopl.exe
+ bin/windows/r-pmpost.exe

@@ -1,0 +1,26 @@
+name extractbb
+category Package
+revision 72936
+shortdesc A reimplementation of extractbb, written in Lua
+longdesc extractbb is a program that exports the dimensions of an image
+longdesc or PDF file to a plain text format that is easily parsed by
+longdesc TeX. This tool is rarely run directly by users, but is
+longdesc frequently used by packages running on XeTeX or upTeX. This
+longdesc package specifically contains a Lua-based reimplementation
+longdesc extractbb that behaves identically to the original C-based
+longdesc version distributed with dvipdfmx.
+depend extractbb.ARCH
+containersize 9144
+containerchecksum bb3b007d410a3bf3f85819cc2c13fa7f519ee63106573e51ae1dcb3da9152dcd2fea0f772acd2ef1b808aabf3f217e1fb6624075e31d8bc74f2a5f039e3efe6f
+doccontainersize 8324
+doccontainerchecksum 634c1d60e60b39e8592723d1c4d7b7701bd02d3ca4b3b4dad75dee37cf0b535acaf094d061f609e6742dc7d381f4db409fafbb62ea46063b6ec8ba72f7c473ac
+runfiles size=8
+ texmf-dist/scripts/extractbb/extractbb-scratch.lua
+ texmf-dist/scripts/extractbb/extractbb-wrapper.lua
+ texmf-dist/scripts/extractbb/extractbb.lua
+catalogue-contact-bugs https://github.com/gucci-on-fleek/extractbb/issues
+catalogue-contact-repository https://github.com/gucci-on-fleek/extractbb/
+catalogue-ctan /support/extractbb
+catalogue-license other-free cc-by-sa-4
+catalogue-topics data-prep pdf-feat
+catalogue-version 1.0.6

@@ -1,0 +1,39 @@
+name amsmath
+category Package
+revision 72779
+catalogue latex-amsmath
+shortdesc AMS mathematical facilities for LaTeX
+longdesc The package provides the principal packages in the AMS-LaTeX
+longdesc distribution. It adapts for use in LaTeX most of the
+longdesc mathematical features found in AMS-TeX; it is highly
+longdesc recommended as an adjunct to serious mathematical typesetting
+longdesc in LaTeX. When amsmath is loaded, AMS-LaTeX packages amsbsy
+longdesc (for bold symbols), amsopn (for operator names) and amstext
+longdesc (for text embedded in mathematics) are also loaded. amsmath is
+longdesc part of the LaTeX required distribution; however, several
+longdesc contributed packages add still further to its appeal; examples
+longdesc are empheq, which provides functions for decorating and
+longdesc highlighting mathematics, and ntheorem, for specifying theorem
+longdesc (and similar) definitions.
+containersize 31328
+containerchecksum 00bff1825685fc641f6c0943261d2e52ee432cee9b6ed9199aaa77d492d25abee3a1e0618475c90d487ecfdefc2d419e45428f9214561faac3549d7c36641fca
+doccontainersize 2421300
+doccontainerchecksum 8411c432c36e904b6c334b53798fb197081e82e853348ebc9ba9af7dfaaa38428372a08c941ba32b92fe0101215d57895ab8c72dced46f3ff53a5e2baa3207f0
+srccontainersize 66404
+srccontainerchecksum 0559218082ba571848813fdb560b025ff57376a1f16eba9f2cd051bb8ef7487a8f6471cd009ead6978ccd39a9efce3841bc2f048c55000fa69d29dc05a5f8199
+runfiles size=70
+ texmf-dist/tex/latex/amsmath/amsbsy.sty
+ texmf-dist/tex/latex/amsmath/amscd.sty
+ texmf-dist/tex/latex/amsmath/amsgen.sty
+ texmf-dist/tex/latex/amsmath/amsmath-2018-12-01.sty
+ texmf-dist/tex/latex/amsmath/amsmath.sty
+ texmf-dist/tex/latex/amsmath/amsopn.sty
+ texmf-dist/tex/latex/amsmath/amstex.sty
+ texmf-dist/tex/latex/amsmath/amstext.sty
+ texmf-dist/tex/latex/amsmath/amsxtra.sty
+catalogue-also nath mathtools
+catalogue-contact-home http://www.ams.org/tex/amslatex.html
+catalogue-ctan /macros/latex/required/amsmath
+catalogue-license lppl1.3c
+catalogue-topics maths
+catalogue-version 2024-11-01a

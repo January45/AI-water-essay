@@ -1,0 +1,34 @@
+name l3packages
+category Package
+revision 72128
+shortdesc High-level LaTeX3 concepts
+longdesc This collection deals with higher-level ideas such as the
+longdesc Designer Interface, as part of LaTeX3 developments. The
+longdesc packages here have over time migrated into the LaTeX kernel:
+longdesc the material here is retained to support older files. The
+longdesc appropriate LaTeX kernel releases incorporating the ideas from
+longdesc the packages here are l3keys2e 2022-06-01 xfp 2022-06-01 xparse
+longdesc 2020-10-01 xtemplate 2024-06-01
+depend l3kernel
+containersize 20424
+containerchecksum f0d9762be695c12a675d3f2bcf1a211b933c634ae9ca6fc458063d6ead5e33d1b9136ea715ff04993f1f20b549cca3b12414647e3b3628e2135ba52a90b643d9
+doccontainersize 1458196
+doccontainerchecksum 55c40fa419ed6595ffbe6679f9320cfece7176e7baa56293e14ae5c30cd7ee0bd7d57d6123551cbbae384f84b4e769b395f402aa1922624196a1f2a790d22750
+srccontainersize 27412
+srccontainerchecksum 2b210c23be60534c90a1e243baf569b1b9efd5dd3724bccc1e9f84e371db556251e28104b794626720b5173e0cd77ab8db514b42847fc89aea2b98115902f66a
+runfiles size=64
+ texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty
+ texmf-dist/tex/latex/l3packages/xfp/xfp.sty
+ texmf-dist/tex/latex/l3packages/xparse/xparse-2018-04-12.sty
+ texmf-dist/tex/latex/l3packages/xparse/xparse-2020-10-01.sty
+ texmf-dist/tex/latex/l3packages/xparse/xparse-generic.tex
+ texmf-dist/tex/latex/l3packages/xparse/xparse.ltx
+ texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+ texmf-dist/tex/latex/l3packages/xtemplate/xtemplate-2023-10-10.sty
+ texmf-dist/tex/latex/l3packages/xtemplate/xtemplate.sty
+catalogue-also l3kernel l3experimental
+catalogue-contact-bugs https://github.com/latex3/latex3/issues
+catalogue-contact-home https://www.latex-project.org
+catalogue-ctan /macros/latex/contrib/l3packages
+catalogue-license lppl1.3c
+catalogue-topics macro-supp latex3 pre-release
